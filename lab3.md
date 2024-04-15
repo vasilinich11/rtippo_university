@@ -32,7 +32,8 @@
 
 ## Прецендент "Начало игры":
 
-<img width="1104" alt="Снимок экрана 2024-04-13 в 1 58 54 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/e2570596-df09-4872-981f-7729422d9408">
+<img width="659" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/bf26c12d-56dd-4c3f-b12c-68ee1ce2d09b">
+
 
 
 || Начать игру |
