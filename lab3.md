@@ -1,7 +1,8 @@
 # Системные диаграммы последовательностей
 
 
-<img width="1040" alt="Снимок экрана 2024-04-13 в 1 13 38 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/3c9de34b-dbed-46f8-bced-d1c0efa4da5d">
+<img width="600" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/e0255e46-a8ac-4b07-9d60-5fa742a16f90">
+
 
 ## Прецендент "Выбор ставки":
 
