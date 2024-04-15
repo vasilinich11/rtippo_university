@@ -83,7 +83,8 @@
 
 ## Прецендент "Узнать выигрыш":
 
-<img width="752" alt="Снимок экрана 2024-04-13 в 2 02 54 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/bcd682fb-0663-4d04-b46c-80107b311b51">
+<img width="570" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/8495fade-597d-44c0-a890-3c000348edc6">
+
 
 
 || Узнать выигрыш |
