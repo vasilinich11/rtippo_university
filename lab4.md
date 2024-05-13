@@ -6,7 +6,8 @@
 
 ## Прецендент "Вращать колесо"
 
-<img width="394" alt="Снимок экрана 2024-04-27 в 3 34 21 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/4e402ec5-ecd2-4b26-b89c-52dcd2d45b7e">
+<img width="709" alt="Снимок экрана 2024-05-13 в 11 06 03 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/ef7aac6f-c675-4f12-b3b9-f26fdf103641">
+
 
 ## Прецендент "Получить выигрыш"
 
@@ -14,12 +15,15 @@
 
 ## Прецендент "Объявить банкротство"
 
-<img width="500" alt="Снимок экрана 2024-04-27 в 3 54 10 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/372e4904-f5c4-4aa2-8f1f-25602ccbf23d">
+<img width="491" alt="Снимок экрана 2024-05-13 в 11 24 08 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b7bb2ff7-e631-4078-aedd-afecd20c2b18">
+
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
 
-<img width="476" alt="Снимок экрана 2024-04-27 в 4 04 54 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/83cf32fc-932f-4acb-b4f6-a616f5ec38dd">
+<img width="529" alt="Снимок экрана 2024-05-13 в 11 27 57 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/95c5898e-fb89-4a21-b98d-28af06a9064b">
+
 
 ## Прецендент "Получить дополнительный ход"
 
-<img width="438" alt="Снимок экрана 2024-04-27 в 4 06 39 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/c7b4e6d3-1f5d-4bc8-b869-e5b9668602ee">
+<img width="483" alt="Снимок экрана 2024-05-13 в 11 28 40 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/8a39d475-668d-4204-bca6-dd85a2fd196e">
+
