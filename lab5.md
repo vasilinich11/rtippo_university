@@ -2,4 +2,4 @@
 
 ### Диаграмма классов
 
-<img width="956" alt="Снимок экрана 2024-05-11 в 10 21 35 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/4ac1e256-1fbc-47cb-97e5-afd0f16f272a">
+<img width="590" alt="Снимок экрана 2024-05-13 в 1 54 55 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/fc14dcb5-50c8-4f3b-aba2-f9625ad86e90">
