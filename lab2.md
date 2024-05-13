@@ -1,5 +1,5 @@
 
-<img width="429" alt="Снимок экрана 2024-03-30 в 4 55 53 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/7713b081-77bd-43d5-90d1-71c18dd5cca7">
+<img width="576" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/60d168b4-1f29-40fd-9515-d1ed5e88305f">
 
 
 ## Начало игры:
