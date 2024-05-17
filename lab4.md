@@ -7,7 +7,8 @@
 
 ## Прецендент "Вращать колесо"
 
-<img width="709" alt="Снимок экрана 2024-05-13 в 11 06 03 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/ef7aac6f-c675-4f12-b3b9-f26fdf103641">
+<img width="535" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/900fc9a6-b906-4eec-96c0-b4ab657887b8">
+
 
 
 ## Прецендент "Получить выигрыш"
