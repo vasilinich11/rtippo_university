@@ -13,7 +13,8 @@
 
 ## Прецендент "Получить выигрыш"
 
-<img width="501" alt="Снимок экрана 2024-05-13 в 11 41 29 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/490402e9-c86e-401b-a0d3-8cc2fabfe0f4">
+<img width="526" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/0bab7df1-7f94-464f-91bb-5f685d6099f6">
+
 
 
 ## Прецендент "Объявить банкротство"
