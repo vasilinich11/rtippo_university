@@ -21,7 +21,7 @@
 
 ## Прецендент "Объявить банкротство"
 
-<img width="491" alt="Снимок экрана 2024-05-13 в 11 24 08 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b7bb2ff7-e631-4078-aedd-afecd20c2b18">
+<img width="663" alt="Снимок экрана 2024-05-20 в 4 41 38 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/371f2c91-04f8-43f5-8d63-892d65e59637">
 
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
