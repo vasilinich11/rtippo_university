@@ -26,10 +26,10 @@
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
 
-<img width="529" alt="Снимок экрана 2024-05-13 в 11 27 57 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/95c5898e-fb89-4a21-b98d-28af06a9064b">
+<img width="982" alt="Снимок экрана 2024-05-20 в 4 52 08 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/e60ec6ab-70b0-43ed-83c9-d59cb7f292cf">
 
 
 ## Прецендент "Получить дополнительный ход"
 
-<img width="483" alt="Снимок экрана 2024-05-13 в 11 28 40 AM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/8a39d475-668d-4204-bca6-dd85a2fd196e">
+<img width="982" alt="Снимок экрана 2024-05-20 в 4 52 39 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b4e328ca-e1fb-406a-9152-c9be29c6b65a">
 
