@@ -30,5 +30,5 @@
 
 ## Прецендент "Получить дополнительный ход"
 
-<img width="982" alt="Снимок экрана 2024-05-20 в 4 52 39 PM" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b4e328ca-e1fb-406a-9152-c9be29c6b65a">
+<img width="888" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/fb8dd1c8-cdb1-4c91-b070-ba28d1a76834">
 
