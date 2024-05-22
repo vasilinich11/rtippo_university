@@ -6,7 +6,7 @@
 
 ## Прецендент "Вращать колесо"
 
-<img width="725" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/ce357cce-2f3b-413f-af50-98ba8168e4a0">
+<img width="565" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/17d4f2b6-78d9-4489-be20-d558fc66a60e">
 
 
 
