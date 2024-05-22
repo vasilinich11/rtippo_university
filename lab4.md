@@ -14,7 +14,7 @@
 
 ## Прецендент "Получить выигрыш"
 
-<img width="698" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/f1ee5d28-e878-4adc-a050-efee1b49cc8b">
+<img width="573" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/63c78340-ac7b-429b-8305-d8b6a3f41a05">
 
 
 
