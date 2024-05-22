@@ -27,7 +27,8 @@
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
 
-<img width="761" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/22e8cdc3-cd74-48e7-b2b0-d36f2c10980b">
+<img width="640" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/ae10ee7f-fcfa-46cc-bd18-9558acdc7d9d">
+
 
 
 ## Прецендент "Получить дополнительный ход"
