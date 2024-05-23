@@ -34,5 +34,6 @@
 
 ## Прецендент "Получить дополнительный ход"
 
-<img width="613" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/beb7e64d-e909-4671-a6b1-2e43ad75d80b">
+<img width="914" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/7e247dff-cd14-4256-90ee-1902b78d6f79">
+
 
