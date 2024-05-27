@@ -19,9 +19,8 @@
 <img width="701" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/d50c3a52-0399-4b9f-8b1d-ea1ae92fdd0c">
 
 
-
-
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
 
-<img width="909" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/09bc03fe-5e71-4c41-8e5d-be87a85b0856">
+<img width="658" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/6d178be9-5c90-4c0c-b972-4612ab8fb4b5">
+
 
