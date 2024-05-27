@@ -1,7 +1,7 @@
 # Создание диаграмм взаимодействия
 
 ## Прецендент "Сделать ставку на символ":
-<img width="792" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b0f6d461-2cbe-4b9d-9a3b-2075b8ba7ea8">
+<img width="639" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/cb4a6ea3-965a-4ba6-9ebb-3c780e50bb52">
 
 
 ## Прецендент "Вращать колесо"
