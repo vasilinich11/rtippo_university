@@ -11,10 +11,7 @@
 
 ## Прецендент "Получить выигрыш"
 
-<img width="696" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/5781b32f-61c9-4320-a4cd-2ac1f1ddb7d8">
-
-
-
+<img width="634" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/10b80bee-37d9-4732-92b3-727bf8a6e84e">
 
 
 ## Прецендент "Объявить банкротство"
