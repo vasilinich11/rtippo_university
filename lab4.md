@@ -6,10 +6,7 @@
 
 ## Прецендент "Вращать колесо"
 
-<img width="602" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/02fc3369-e766-4cca-ae55-4858b0a44535">
-
-
-
+<img width="542" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/7433e364-9761-49ac-892b-ffd36c9f6779">
 
 
 ## Прецендент "Получить выигрыш"
