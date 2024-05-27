@@ -14,9 +14,10 @@
 <img width="634" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/10b80bee-37d9-4732-92b3-727bf8a6e84e">
 
 
-## Прецендент "Объявить банкротство"
+## Прецендент "Баланс равен нулю"
 
-<img width="521" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/5af19108-b891-4420-9238-02778ed6a4a0">
+<img width="701" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/d50c3a52-0399-4b9f-8b1d-ea1ae92fdd0c">
+
 
 
 
