@@ -30,11 +30,3 @@
 
 <img width="909" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/09bc03fe-5e71-4c41-8e5d-be87a85b0856">
 
-
-
-
-## Прецендент "Получить дополнительный ход"
-
-<img width="914" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/7e247dff-cd14-4256-90ee-1902b78d6f79">
-
-
