@@ -1,0 +1,10 @@
+C:\Users\79227\Source\Repos\wheelOfFortune\bin\Debug\wheelOfFortune.exe.config
+C:\Users\79227\Source\Repos\wheelOfFortune\bin\Debug\wheelOfFortune.exe
+C:\Users\79227\Source\Repos\wheelOfFortune\bin\Debug\wheelOfFortune.pdb
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.csproj.AssemblyReference.cache
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.Form1.resources
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.Properties.Resources.resources
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.csproj.GenerateResource.cache
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.exe
+C:\Users\79227\Source\Repos\wheelOfFortune\obj\Debug\wheelOfFortune.pdb

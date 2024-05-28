@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wheelOfFortune.GameController">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAgACAACAAAAAAgAAAAAAAAAAAAEAAgAAA=</HashCode>
+      <FileName>GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelOfFortune.Player">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAAAAAAgAAABAAAAAIAAAAAQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelOfFortune.WheelOfFortune">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CUAAAAIAAAAAAYAAAEAAAAABAAAAAAAEAAAAAUBQAAA=</HashCode>
+      <FileName>WheelOfFortune.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelOfFortune.Form1">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhIgABEJACFI0CAQUKSAACCKkBDAIKAAAACZAgAAQhM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
