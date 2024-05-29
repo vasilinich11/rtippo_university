@@ -8,7 +8,8 @@
 
 ## Прецендент "Вращать колесо"
 
-<img width="662" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/19075f3f-7429-4a7d-b797-6e627a7c6da5">
+<img width="796" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/c3205f9d-dea3-4e62-9d89-906b13801eb1">
+
 
 
 
