@@ -19,7 +19,8 @@
 
 ## Прецендент "Баланс равен нулю"
 
-<img width="701" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/d50c3a52-0399-4b9f-8b1d-ea1ae92fdd0c">
+<img width="719" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/b10f3f3e-617a-49ee-9a4b-27c922987ad7">
+
 
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
