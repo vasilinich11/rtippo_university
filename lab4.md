@@ -13,7 +13,8 @@
 
 ## Прецендент "Получить выигрыш"
 
-<img width="634" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/10b80bee-37d9-4732-92b3-727bf8a6e84e">
+<img width="853" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/14bf3423-d95d-401b-872a-5ac599e49d50">
+
 
 
 ## Прецендент "Баланс равен нулю"
