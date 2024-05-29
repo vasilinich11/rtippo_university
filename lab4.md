@@ -16,21 +16,24 @@
 
 ## Прецендент "Получить выигрыш"
 
-<img width="608" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/eb03ddbc-d85f-40ab-8223-5e19be399cf3">
+<img width="889" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/59d0c5a0-e5dd-48da-8d96-35ed17c7a77b">
+
 
 
 
 
 ## Прецендент "Баланс равен нулю"
 
-<img width="692" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/09a1c15a-e588-42eb-b0ce-dd16be8ef3de">
+<img width="850" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/d3e41caf-a7eb-4151-a0d4-b054c01f79c1">
+
 
 
 
 
 ## Прецендент "Получить выигрыш за сектор "Джокер" "
 
-<img width="626" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/9c2ac168-cf0c-4edc-ba6e-d06878fbb3b8">
+<img width="693" alt="image" src="https://github.com/vasilinich11/rtippo_university/assets/88510499/8b6fec15-a8ee-46cd-bea0-ee9f035a9b55">
+
 
 
 
